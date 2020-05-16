@@ -4,7 +4,6 @@ package thinkinginjava.chap10innerclass.page101;
  */
 public class Parcel1 {
      class Contents {
-    	 
     	 private int i =11;
     	 public int value() {
     		 return i;
